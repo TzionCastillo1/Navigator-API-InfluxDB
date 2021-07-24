@@ -1,0 +1,1 @@
+API for reading MQTT sensor data and placing it into influxDB for easier management.
